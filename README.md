@@ -1,1 +1,2 @@
 # Construction-website (FIINIX)
+This is a project which is assigned to a group of three students in which we have to create a simple website by using the concepts that we learn in our class. In this project we use html, css, bootstrap and javascript. This is the first project that we are doing on the Web Development and we took help of some video tutorial and docs available on internet to complete this project. From this project we learnt that how actually website work and how we can use different technology to our website to make the website very interective.
